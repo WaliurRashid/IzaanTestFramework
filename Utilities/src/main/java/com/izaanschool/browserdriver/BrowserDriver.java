@@ -36,7 +36,7 @@ import java.util.concurrent.TimeUnit;
 public class BrowserDriver {
     public static WebDriver driver = null;
     public static String browserName = System.getProperty("browserName", "chrome");
-    public static final String url = System.getProperty("url", "http://ec2-54-144-16-33.compute-1.amazonaws.com/");
+    public static final String url = System.getProperty("url", "http://ec2-3-85-233-129.compute-1.amazonaws.com/");
     public static String platform = System.getProperty("platform", "local");
     public static String os = System.getProperty("os", "windows");
     public static String cloudPlatformName = System.getProperty("cloudPlatformName", "browserstack");

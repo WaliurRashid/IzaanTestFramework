@@ -17,12 +17,12 @@
       <![CDATA[Actual text: Izaan School]]>
     </line>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="16344" started-at="2022-07-25T21:58:02Z" finished-at="2022-07-25T21:58:19Z">
+  <suite name="Surefire suite" duration-ms="8438" started-at="2022-07-26T01:45:48Z" finished-at="2022-07-26T01:45:56Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="16344" started-at="2022-07-25T21:58:02Z" finished-at="2022-07-25T21:58:19Z">
+    <test name="Surefire test" duration-ms="8438" started-at="2022-07-26T01:45:48Z" finished-at="2022-07-26T01:45:56Z">
       <class name="pageobjectstests.IzaanHomePageTests">
-        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="extentSetup" is-config="true" duration-ms="503" started-at="2022-07-25T21:58:02Z" finished-at="2022-07-25T21:58:02Z">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="extentSetup" is-config="true" duration-ms="153" started-at="2022-07-26T01:45:48Z" finished-at="2022-07-26T01:45:48Z">
           <params>
             <param index="0">
               <value>
@@ -36,11 +36,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="setUp" is-config="true" duration-ms="7578" started-at="2022-07-25T21:58:02Z" finished-at="2022-07-25T21:58:10Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="setUp" is-config="true" duration-ms="3026" started-at="2022-07-26T01:45:48Z" finished-at="2022-07-26T01:45:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="startExtent" is-config="true" duration-ms="17" started-at="2022-07-25T21:58:10Z" finished-at="2022-07-25T21:58:10Z">
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="startExtent" is-config="true" duration-ms="12" started-at="2022-07-26T01:45:51Z" finished-at="2022-07-26T01:45:51Z">
           <params>
             <param index="0">
               <value>
@@ -51,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="PASS" signature="assertionBodyText()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="assertionBodyText" duration-ms="304" started-at="2022-07-25T21:58:10Z" finished-at="2022-07-25T21:58:10Z">
+        <test-method status="PASS" signature="assertionBodyText()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="assertionBodyText" duration-ms="102" started-at="2022-07-26T01:45:51Z" finished-at="2022-07-26T01:45:51Z">
           <reporter-output>
             <line>
               <![CDATA[Getting Text from Body Text]]>
@@ -61,7 +61,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- assertionBodyText -->
-        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="afterEachTestMethod" is-config="true" duration-ms="2424" started-at="2022-07-25T21:58:10Z" finished-at="2022-07-25T21:58:13Z">
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="afterEachTestMethod" is-config="true" duration-ms="1624" started-at="2022-07-26T01:45:51Z" finished-at="2022-07-26T01:45:53Z">
           <params>
             <param index="0">
               <value>
@@ -72,15 +72,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method status="PASS" signature="cleanUP()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="cleanUP" is-config="true" duration-ms="0" started-at="2022-07-25T21:58:13Z" finished-at="2022-07-25T21:58:13Z">
+        <test-method status="PASS" signature="cleanUP()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="cleanUP" is-config="true" duration-ms="1" started-at="2022-07-26T01:45:53Z" finished-at="2022-07-26T01:45:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUP -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="setUp" is-config="true" duration-ms="4180" started-at="2022-07-25T21:58:13Z" finished-at="2022-07-25T21:58:17Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="setUp" is-config="true" duration-ms="2841" started-at="2022-07-26T01:45:53Z" finished-at="2022-07-26T01:45:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="startExtent" is-config="true" duration-ms="1" started-at="2022-07-25T21:58:17Z" finished-at="2022-07-25T21:58:17Z">
+        <test-method status="PASS" signature="headerAssertion()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="headerAssertion" duration-ms="41" started-at="2022-07-26T01:45:56Z" finished-at="2022-07-26T01:45:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting Text from Page Header]]>
+            </line>
+            <line>
+              <![CDATA[Actual text: Izaan School]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- headerAssertion -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="startExtent" is-config="true" duration-ms="0" started-at="2022-07-26T01:45:56Z" finished-at="2022-07-26T01:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -91,17 +101,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="PASS" signature="headerAssertion()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="headerAssertion" duration-ms="145" started-at="2022-07-25T21:58:17Z" finished-at="2022-07-25T21:58:17Z">
-          <reporter-output>
-            <line>
-              <![CDATA[Getting Text from Page Header]]>
-            </line>
-            <line>
-              <![CDATA[Actual text: Izaan School]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- headerAssertion -->
-        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="afterEachTestMethod" is-config="true" duration-ms="1626" started-at="2022-07-25T21:58:17Z" finished-at="2022-07-25T21:58:19Z">
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="afterEachTestMethod" is-config="true" duration-ms="775" started-at="2022-07-26T01:45:56Z" finished-at="2022-07-26T01:45:56Z">
           <params>
             <param index="0">
               <value>
@@ -112,11 +112,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method status="PASS" signature="cleanUP()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="cleanUP" is-config="true" duration-ms="1" started-at="2022-07-25T21:58:19Z" finished-at="2022-07-25T21:58:19Z">
+        <test-method status="PASS" signature="cleanUP()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="cleanUP" is-config="true" duration-ms="1" started-at="2022-07-26T01:45:56Z" finished-at="2022-07-26T01:45:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUP -->
-        <test-method status="PASS" signature="generateReport()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="generateReport" is-config="true" duration-ms="77" started-at="2022-07-25T21:58:19Z" finished-at="2022-07-25T21:58:19Z">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:pageobjectstests.IzaanHomePageTests@548b7f67]" name="generateReport" is-config="true" duration-ms="91" started-at="2022-07-26T01:45:56Z" finished-at="2022-07-26T01:45:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
