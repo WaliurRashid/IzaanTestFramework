@@ -30,6 +30,7 @@ public class IzaanHomePage {
     public String getBody(){
         String bodyText = helper.getText(body,"Body Text");
         // TestLogger.log("Page Title: " + pageTitle);
+        System.out.println(bodyText);
         return bodyText;
     }
 }

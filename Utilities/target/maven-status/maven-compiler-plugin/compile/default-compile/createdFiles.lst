@@ -1,0 +1,7 @@
+com\izaanschool\reporting\TestLogger.class
+com\izaanschool\browserdriver\BrowserDriver.class
+com\izaanschool\reporting\ExtentManager.class
+com\izaanschool\reporting\ExtentTestManager.class
+com\izaanschool\Main.class
+com\izaanschool\excelreader\MyDataReader.class
+com\izaanschool\reporting\ApplicationLog.class
